@@ -1,0 +1,7 @@
+## Interface: 120000
+## Title: AdaptiveBinds
+## Notes: Adaptive font scaling for action bar keybinds and centered macro text.
+## Author: Danderlion
+## Version: 1.0.0
+
+AdaptiveBinds.lua
